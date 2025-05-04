@@ -162,7 +162,7 @@ function App() {
   return (
     <>
     <div className="container">
-      <audio src='./Assets/songs/Chasing - NEFFEX.mp3' ref={currentAudio} onEnded={handleNextSong} onTimeUpdate={handleAudioUpdate}></audio>
+      <audio src='./Assets/songs/JVKE - clouds.mp3' ref={currentAudio} onEnded={handleNextSong} onTimeUpdate={handleAudioUpdate}></audio>
       <video src={vidArray[videoIndex]} loop muted autoPlay className='backgroundVideo'></video>
       <div className="blackScreen"></div>
       <div className="music-Container">
