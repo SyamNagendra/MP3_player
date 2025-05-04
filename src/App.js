@@ -184,7 +184,7 @@ function App() {
       <div className="changeBackBtn" onClick={handleChangeBackground}>
         Change Background
       </div>
-      <a href="" title='Subscribe' className='youtube-Subs'>
+      <a href="https://www.instagram.com/syamnagendra/" title='Subscribe' className='youtube-Subs'>
         {/* <img src="./Assets/Images/Youtube_logo.png" alt="Youtube Logo"/> */}
         <p>Syam Nagendra</p>
       </a>
